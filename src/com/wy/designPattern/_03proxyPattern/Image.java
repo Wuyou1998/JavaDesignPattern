@@ -1,4 +1,4 @@
-package com.wy.designPattern._proxyPattern;
+package com.wy.designPattern._03proxyPattern;
 
 /**
  * 名称: JavaDesignPattern.com.wy.designPattern._proxyPattern.Image
