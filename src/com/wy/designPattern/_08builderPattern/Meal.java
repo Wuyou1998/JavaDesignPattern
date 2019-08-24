@@ -1,10 +1,10 @@
-package com.wy.designPattern._builderpattern;
+package com.wy.designPattern._08builderPattern;
 
 import java.util.ArrayList;
 import java.util.List;
 
 /**
- * 名称: JavaDesignPattern.com.wy.designPattern._builderpattern.Meal
+ * 名称: JavaDesignPattern.com.wy.designPattern._08builderPattern.Meal
  * 用户: _VIEW
  * 时间: 2019/8/24,23:24
  * 描述: 一顿吃了啥

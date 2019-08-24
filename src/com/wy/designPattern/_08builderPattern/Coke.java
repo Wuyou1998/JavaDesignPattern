@@ -1,7 +1,7 @@
-package com.wy.designPattern._builderpattern;
+package com.wy.designPattern._08builderPattern;
 
 /**
- * 名称: JavaDesignPattern.com.wy.designPattern._builderpattern.Coke
+ * 名称: JavaDesignPattern.com.wy.designPattern._08builderPattern.Coke
  * 用户: _VIEW
  * 时间: 2019/8/24,23:23
  * 描述: 普通可乐

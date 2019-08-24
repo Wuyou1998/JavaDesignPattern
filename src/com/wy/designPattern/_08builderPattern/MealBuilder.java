@@ -1,7 +1,7 @@
-package com.wy.designPattern._builderpattern;
+package com.wy.designPattern._08builderPattern;
 
 /**
- * 名称: JavaDesignPattern.com.wy.designPattern._builderpattern.MealBuilder
+ * 名称: JavaDesignPattern.com.wy.designPattern._08builderPattern.MealBuilder
  * 用户: _VIEW
  * 时间: 2019/8/24,23:29
  * 描述: 点餐构造器，本类其实是兼具构造器和导演类双重功能
